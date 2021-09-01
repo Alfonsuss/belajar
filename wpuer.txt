@@ -4,3 +4,4 @@ Percobaan 1
 -tidak menysuahkan orang lain
 -belajar menghargai sesuatu yang kecil
 -menjadi mandiri
+-menambah pengetahuan git
