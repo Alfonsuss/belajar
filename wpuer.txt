@@ -3,5 +3,6 @@ Percobaan 1
 -Menjadi orang yang berguna
 -tidak menysuahkan orang lain
 -belajar menghargai sesuatu yang besar
--menjadi mandiri
+
 -menambah pengetahuan git
+-menghargai sesama
