@@ -5,3 +5,4 @@ Percobaan 1
 -belajar menghargai sesuatu yang besar
 -menjadi mandiri
 -menambah pengetahuan git
+-mengapa
